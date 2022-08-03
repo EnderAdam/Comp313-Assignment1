@@ -15,6 +15,6 @@ class ASSIGNMENT_1_API UScaleVector : public UBlueprintFunctionLibrary
 	GENERATED_BODY()
 	//function that multiplies a vector by a scalar
 		UFUNCTION(BlueprintCallable, Category = "ScaleVector")
-		static FVector ScaleVector(FVector vector, float scalar);
+		static FVector ScaleVector(FVector vector, float scalar, bool isTouchingGround);
 	
 };
