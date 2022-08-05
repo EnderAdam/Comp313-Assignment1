@@ -1,13 +1,19 @@
 # COMP313 Assignment 1 
-## <your name>
+## Tarik Hasan Kurnaz
 
-## Cool Thing Title
+## Target Shooter
 
 [Gameplay video](https://www.youtube.com/watch?v=WB6w7ovocpk)
 
 ## Description
 
+The game is first person shooter game where the player has to shoot 30 targets to win. 
+
 ### Main mechanic
+Main mechanic of the game is to shoot and destory the targets present in the level with your gun. The player is spawned in the level with a gun in front of them.
+Targets are actors and have are squares with target practice images on them. They will try to run away from you and hide within the corners of the map. Your goal is to 
+destroy 30 targets and complete the game.
+
 Stuff about the main action in the game
 
 ### Development difficulties
