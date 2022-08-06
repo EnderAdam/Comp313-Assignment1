@@ -3,7 +3,7 @@
 
 ## Target Shooter
 
-[Gameplay video](https://www.youtube.com/watch?v=WB6w7ovocpk)
+[Gameplay video](https://myvuwac-my.sharepoint.com/:v:/g/personal/kurnaztari_myvuw_ac_nz/Ed8puEYuRU5Iif05YWXk4PwBHfOSlisKTTIc9bn_8EVqlg?e=i0WRZV)
 
 ## Description
 
